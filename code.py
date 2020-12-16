@@ -1,5 +1,6 @@
 print("Hello World")
 x = 2
 y = 4
-z = x + y + 2
+c = 6
+z = x + y + c
 print ("sum" , z)
